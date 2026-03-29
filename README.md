@@ -1,3 +1,5 @@
+- If you want the trained weights mail me ; anubhavjha0812@gmail.com
+
 # Automatic Number Plate Recognition (ANPR) – YOLO + EasyOCR
 
 ## Overview
